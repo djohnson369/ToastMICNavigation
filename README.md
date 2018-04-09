@@ -16,6 +16,7 @@ There is currently nothing here yet, Oh Noes.
 - https://pypi.python.org/pypi Python Package Directory for researching modules
 - https://pypi.org/ ~ Newer Package Directory for Python modules
 - https://jakevdp.github.io/WhirlwindTourOfPython/02-basic-python-syntax.html ~ Something that Brooklyn wanted on here
+- https://www.python.org/dev/peps/pep-0008/ ~ Style Guide for Python Code (PEP8)
 
 ### R Language
 - https://www.rstudio.com/online-learning/
