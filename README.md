@@ -2,6 +2,11 @@
 A Python based navigation program for the MIC/STA Campus
 ### For Real Work Purposes Only! ~ Your Are Watched
 
+### Agenda For The Week
+```
+There is currently nothing here yet, Oh Noes.
+```
+
 # References
 ### Python Documentation
 - https://docs.python.org/3/ ~ Python 3.6.5 Documentation
