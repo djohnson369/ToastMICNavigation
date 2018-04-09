@@ -1,6 +1,6 @@
 # ToastMICNavigation
 A Python based navigation program for the MIC/STA Campus
-### For Real Work Purposes Only! ~ You Are Watched
+### For Real Work Purposes Only! ~ You Are Watched, Free from Afternoon nonsense since 4/9/2018
 
 ### Agenda For The Week
 ```
