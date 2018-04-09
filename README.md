@@ -1,6 +1,6 @@
 # ToastMICNavigation
 A Python based navigation program for the MIC/STA Campus
-### For Real Work Purposes Only! ~ Your Are Watched
+### For Real Work Purposes Only! ~ You Are Watched
 
 ### Agenda For The Week
 ```
@@ -12,7 +12,9 @@ There is currently nothing here yet, Oh Noes.
 - https://docs.python.org/3/ ~ Python 3.6.5 Documentation
 - https://docs.python.org/3/library/ ~ Python Standard Library
 - https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial ~ Python for Starters
-https://en.wikibooks.org/wiki/Python_Programming ~ Python Programming
+- https://en.wikibooks.org/wiki/Python_Programming ~ Python Programming
+- https://pypi.python.org/pypi Python Package Directory for researching modules
+- https://pypi.org/ ~ Newer Package Directory for Python modules
 
 ### R Language
 - https://www.rstudio.com/online-learning/
