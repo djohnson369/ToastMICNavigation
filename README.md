@@ -27,6 +27,14 @@ There is currently nothing here yet, Oh Noes.
 - https://en.wikipedia.org/wiki/RSA_(cryptosystem)?scrlybrkr=e0831261
 - https://simple.wikipedia.org/wiki/RSA_algorithm
 
+### Google API
+- https://developers.google.com/api-client-library/python/ ~ Google API's in Python
+
+### SQL Documentation
+- http://www.sqltutorial.org/wp-content/uploads/2016/04/SQL-cheat-sheet.pdf ~ A simplistic SQL Cheatsheet
+- https://ebrelsford.github.io/talks/2014/AdvancedGIS/week4-sql-geojson/materials/sql-cheatsheet.pdf ~ A more detailed cheat sheet
+- http://qac.blogs.wesleyan.edu/files/2017/05/cheatsheet.pdf ~ SQL Cheatsheet for SQL queries
+
 ### Meraki Reference
 
 - https://documentation.meraki.com/MR/Monitoring_and_Reporting/Scanning_API
