@@ -4,6 +4,15 @@ A Python based navigation program for the MIC/STA Campus
 
 # References
 - https://docs.python.org/3/ ~ Python 3.6.5 Documentation
+- https://docs.python.org/3/library/ Python Standard Library
+
+### R Language
+- https://www.rstudio.com/online-learning/
+- https://cran.r-project.org/doc/manuals/r-release/fullrefman.pdf
+- https://www.tutorialspoint.com/r/r_overview.htm
+
+### RSA Encryption
+- https://github.com/sybrenstuvel/python-rsa
 
 ### Meraki References
 - https://documentation.meraki.com/MR/Monitoring_and_Reporting/Scanning_API
