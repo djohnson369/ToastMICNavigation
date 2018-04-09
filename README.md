@@ -1,6 +1,6 @@
 # ToastMICNavigation
 A Python based navigation program for the MIC/STA Campus
-### For Real Work Purposes Only!
+### For Real Work Purposes Only! ~ Your activity is monitored
 
 # References
 ##### Python Documentation
