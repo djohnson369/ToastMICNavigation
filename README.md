@@ -3,8 +3,10 @@ A Python based navigation program for the MIC/STA Campus
 ### For Real Work Purposes Only!
 
 # References
+##### Python Documentation
 - https://docs.python.org/3/ ~ Python 3.6.5 Documentation
-- https://docs.python.org/3/library/ Python Standard Library
+- https://docs.python.org/3/library/ ~ Python Standard Library
+- https://en.wikibooks.org/wiki/A_Beginner%27s_Python_Tutorial
 
 ### R Language
 - https://www.rstudio.com/online-learning/
