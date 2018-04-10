@@ -11,5 +11,7 @@ There is currently nothing here yet.
 
 # Scrum Log (Secondary)
 -Finished migrating the UCM information.
-(-How the heck we gonna do profiles aint no body gonna wanna sign in??)
+
+(How the heck we gonna do profiles aint no body gonna wanna sign in??)
+
 -GUI work is in progress: Qt is being looked into.
